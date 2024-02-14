@@ -1,1 +1,1 @@
-Codsoft internship projects.
+practice projects.
